@@ -1,0 +1,41 @@
+body {
+  font-family: "Merriweather", serif;
+  font-color: #213121;
+}
+
+.quote {
+  font-size: 18px;
+  font-color: grey;
+  font-weight: lighter;
+  padding-bottom: -30px;
+}
+
+.subtitle {
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+}
+
+#artistname {
+  font-size: 60px;
+}
+
+#center-class {
+  background: #ececec;
+  border-radius: 20px;
+}
+
+#center-image {
+  border-radius: 20px;
+  padding-bottom: 10px;
+  margin-top: -10px;
+}
+
+#image-subtitle {
+  background-color: white;
+  background-radius: 30px;
+}
+
+#timeline {
+  margin-top: -20px;
+}
